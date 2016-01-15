@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND", "DND\DND.csproj", "{44289080-2D66-44D0-B9F4-9B5593D6C26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND.Tests", "DND.Tests\DND.Tests.csproj", "{C45FA41E-4731-4972-AFD8-35BF5BA5428D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44289080-2D66-44D0-B9F4-9B5593D6C26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44289080-2D66-44D0-B9F4-9B5593D6C26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44289080-2D66-44D0-B9F4-9B5593D6C26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44289080-2D66-44D0-B9F4-9B5593D6C26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45FA41E-4731-4972-AFD8-35BF5BA5428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45FA41E-4731-4972-AFD8-35BF5BA5428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45FA41E-4731-4972-AFD8-35BF5BA5428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45FA41E-4731-4972-AFD8-35BF5BA5428D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
